@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Code/Boids/Boids/Content/Font1.spritefont","D:/Code/Boids/Boids/Content/bin/DesktopGL/Font1.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.2138567
+"D:/Code/Boids/Boids/Content/greenTriangle.png","D:/Code/Boids/Boids/Content/bin/DesktopGL/greenTriangle.xnb","TextureProcessor","Texture2DContent",907,39289,0.0064568
+"D:/Code/Boids/Boids/Content/greenTriangle2.png","D:/Code/Boids/Boids/Content/bin/DesktopGL/greenTriangle2.xnb","TextureProcessor","Texture2DContent",978,39289,0.0012533
+"D:/Code/Boids/Boids/Content/greenTriangle3.png","D:/Code/Boids/Boids/Content/bin/DesktopGL/greenTriangle3.xnb","TextureProcessor","Texture2DContent",4368,39289,0.0014833
