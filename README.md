@@ -1,6 +1,6 @@
 # Boids
 
-A C#-MonoGame project designed to model the behaviors of flocks of birds and schools of fish, being separation, cohesion, and alignment, with added obsticale avoidance.
+A C#-MonoGame project designed to model the behaviors of flocks of birds and schools of fish, being separation, cohesion, and alignment, with added obstacle avoidance.
 
 ## Demo
 
